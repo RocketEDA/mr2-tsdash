@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed Sep 18 05:02:03 PDT 2024
-#Wed Sep 18 05:02:03 PDT 2024
+#Last Saved on: Wed Sep 18 06:11:50 PDT 2024
+#Wed Sep 18 06:11:50 PDT 2024
 Triggers.ActiveTriggers=TriggeredPage0 Refresh\:  vssRefresh > 0 |
 mr2=a0d63d5a-a77f-4ead-868d-0ad17a549aa6
 commPort=COM1
@@ -27,5 +27,6 @@ useCommonDashboardDir=false
 dashBoardFile=/dashboard//dashboard.dash
 CommSettingTSDashCommDriver.controllerInterfaceId=RS232 Serial Interface
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM0
+tuneFileDir=C\:\\Users\\joesp\\Documents\\GitHub\\mr2-tsdash
 CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
 baudRate=115200
