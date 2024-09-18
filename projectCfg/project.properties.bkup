@@ -1,0 +1,22 @@
+#Project Attributes.
+#TS Dash by EFI Analytics, Inc
+#Last Saved on: Wed Sep 18 07:46:43 EDT 2024
+#Wed Sep 18 07:46:43 EDT 2024
+commPort=COM1
+CommSettingTSDashCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM0
+ecuSettings=AFR|FAHRENHEIT|enablehardware_test_OFF|resetcontrol_standard|
+selectedComDriver=Multi Interface MegaSquirt Driver
+projectDescription=
+projectName=mr2
+ecuConfigFile=mainController.ini
+CommSettingTSDashCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingTSDashCommDriver.RS232\ Serial\ Interface2nd\ Com\ Port=
+CommSettingMSCommDriver.RS232\ Serial\ Interface2nd\ Com\ Port=
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingTSDashCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+dashBoardFile=/dashboard//dashboard.dash
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyACM0
+CommSettingTSDashCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+baudRate=115200
