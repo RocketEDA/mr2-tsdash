@@ -1,7 +1,7 @@
 #Project Attributes.
 #TS Dash by EFI Analytics, Inc
-#Last Saved on: Thu Sep 19 08:38:32 EDT 2024
-#Thu Sep 19 08:38:32 EDT 2024
+#Last Saved on: Fri Sep 20 01:45:54 EDT 2024
+#Fri Sep 20 01:45:54 EDT 2024
 Triggers.ActiveTriggers=syncLossDetect|myActionTrigger|cltTempWarning|playRacecarWOT|TriggeredPage0 Refresh\:  vssRefresh > 0 |
 mr2=a0d63d5a-a77f-4ead-868d-0ad17a549aa6
 commPort=COM1
